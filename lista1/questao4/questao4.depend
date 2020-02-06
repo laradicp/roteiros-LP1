@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1575907793 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista 1 - tiago maritan\questao4\src\data.cpp
+	"Data.h"
+	<stdio.h>
+
+1575907913 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista 1 - tiago maritan\questao4\include\data.h
+	<string>
+
+1575909342 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista 1 - tiago maritan\questao4\main.cpp
+	<iostream>
+	"Data.h"
+

@@ -1,0 +1,6 @@
+1)
+	(a) 	Classes são os moldes dos objetos, os quais se assemelham aos objetos reais, com características (atributos) e comportamentos (métodos).
+	(b) 	Um construtor inicializa os atributos da classe, devendo ser utilizado na declaração de um novo objeto.
+		Podem existir construtores com parâmetros, inicializando os atributos de forma especificada, ou sem, para uma inicialização padrão, mais geral.
+	(c)	O encapsulamento melhora a legibilidade da programação, tornando-a mais verossímil, já que reproduz a realidade de objetos inter-relacionados.
+		Outro benefício do encapsulamento é a reciclagem de código, pois esse permite o encaixe de classes preexistentes em outras.

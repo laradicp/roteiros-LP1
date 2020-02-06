@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575909280 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista 1 - tiago maritan\questao05\src\horario.cpp
+	"Horario.h"
+
+1575909280 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista 1 - tiago maritan\questao05\include\horario.h
+
+1575909781 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista 1 - tiago maritan\questao05\main.cpp
+	"Horario.h"
+	<iostream>
+	<time.h>
+

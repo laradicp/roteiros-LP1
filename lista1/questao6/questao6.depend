@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1575916166 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista 1 - tiago maritan\questao6\main.cpp
+	<iostream>
+	<Voo.h>
+
+1575916034 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista 1 - tiago maritan\questao6\include\voo.h
+	"Horario.h"
+	"Data.h"
+
+1575912802 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista 1 - tiago maritan\questao6\include\horario.h
+
+1575912802 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista 1 - tiago maritan\questao6\include\data.h
+	<string>
+
+1575912802 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista 1 - tiago maritan\questao6\src\data.cpp
+	"Data.h"
+	<stdio.h>
+
+1575912802 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista 1 - tiago maritan\questao6\src\horario.cpp
+	"Horario.h"
+
+1575916230 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista 1 - tiago maritan\questao6\src\voo.cpp
+	"Voo.h"
+
