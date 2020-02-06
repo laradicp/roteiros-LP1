@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1574127735 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 1 - derzu\questao4\main.cpp
+	"Pessoa.h"
+	<iostream>
+	<vector>
+
+1574126577 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 1 - derzu\questao4\src\pessoa.cpp
+	"Pessoa.h"
+
+1574126265 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 1 - derzu\questao4\include\pessoa.h
+	<string>
+

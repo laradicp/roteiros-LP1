@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1573751059 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\questao1\src\data.cpp
+	"Data.h"
+	<stdio.h>
+
+1573750023 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\questao1\include\data.h
+
+1573750717 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\questao1\main.cpp
+	<stdio.h>
+	"Data.h"
+
+1574778329 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 1 - derzu\questao1\main.cpp
+	<stdio.h>
+	"Data.h"
+
+1573750023 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 1 - derzu\questao1\include\data.h
+
+1573751059 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 1 - derzu\questao1\src\data.cpp
+	"Data.h"
+	<stdio.h>
+

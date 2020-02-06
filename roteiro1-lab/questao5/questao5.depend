@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1574704695 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 1 - derzu\questao5\main.cpp
+	"Despesa.h"
+	"ControleDeGastos.h"
+	<iostream>
+
+1574704751 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 1 - derzu\questao5\include\despesa.h
+	<string>
+
+1574705639 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 1 - derzu\questao5\include\controledegastos.h
+	"Despesa.h"
+	<vector>
+
+1574705929 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 1 - derzu\questao5\src\controledegastos.cpp
+	"ControleDeGastos.h"
+
+1574705613 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 1 - derzu\questao5\src\despesa.cpp
+	"Despesa.h"
+

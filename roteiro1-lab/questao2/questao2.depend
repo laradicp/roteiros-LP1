@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1574103521 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\questao2\main.cpp
+	"Invoice.h"
+	<iostream>
+	<vector>
+
+1574104705 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\questao2\src\invoice.cpp
+	"Invoice.h"
+	<string>
+
+1574104705 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\questao2\include\invoice.h
+	<string>
+

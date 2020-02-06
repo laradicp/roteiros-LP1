@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1574108588 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\questao3\main.cpp
+	"Empregado.h"
+	<iostream>
+
+1574108632 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\questao3\include\empregado.h
+	<string>
+
+1574108652 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\questao3\src\empregado.cpp
+	"Empregado.h"
+	<string>
+

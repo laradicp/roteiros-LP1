@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1574777122 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 1 - derzu\questao6\main.cpp
+	"ControleDePagamentos.h"
+	<iostream>
+
+1574777122 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 1 - derzu\questao6\src\pagamento.cpp
+	"Pagamento.h"
+
+1574777122 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 1 - derzu\questao6\include\pagamento.h
+	<string>
+
+1574777289 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 1 - derzu\questao6\include\controledepagamentos.h
+	"Pagamento.h"
+	<vector>
+
+1574777122 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 1 - derzu\questao6\src\controledepagamentos.cpp
+	"ControleDePagamentos.h"
+
