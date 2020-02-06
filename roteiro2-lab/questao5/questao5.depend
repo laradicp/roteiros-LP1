@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao5\main.cpp
+	<iostream>
+
+1576505451 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao5\src\trabalhador.cpp
+	"Trabalhador.h"
+
+1576505423 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao5\include\trabalhador.h
+	<string>
+
+1576506095 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao5\src\trabalhadorassalariado.cpp
+	"TrabalhadorAssalariado.h"
+
+1576506095 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao5\include\trabalhadorassalariado.h
+	<Trabalhador.h>
+
+1576506540 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao5\src\trabalhadorporhora.cpp
+	"TrabalhadorPorHora.h"
+
+1576506540 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao5\include\trabalhadorporhora.h
+	<Trabalhador.h>
+

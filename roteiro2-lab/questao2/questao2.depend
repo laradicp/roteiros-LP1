@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao2\main.cpp
+	<iostream>
+
+1575491011 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao2\src\pessoa.cpp
+	"Pessoa.h"
+
+1575491010 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao2\include\pessoa.h
+
+1575495068 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao2\src\endereco.cpp
+	"Endereco.h"
+	<stdio.h>
+	<sstream>
+
+1575492176 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao2\include\endereco.h
+	<string>
+
+1575495068 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao2\src\endereco.cpp
+	"Endereco.h"
+	<stdio.h>
+	<sstream>
+
+1575492176 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao2\include\endereco.h
+	<string>
+

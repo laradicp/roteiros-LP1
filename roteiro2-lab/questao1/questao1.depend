@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao1\main.cpp
+	<iostream>
+
+1575393931 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao1\src\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+
+1575393931 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao1\include\mesaderestaurante.h
+	"Pedido.h"
+	<vector>
+
+1575390963 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao1\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+
+1575390963 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao1\include\restaurantecaseiro.h
+
+1575391992 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao1\src\pedido.cpp
+	"Pedido.h"
+
+1575391986 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao1\include\pedido.h
+	<string>
+
+1575393931 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao1\src\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+
+1575393931 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao1\include\mesaderestaurante.h
+	"Pedido.h"
+	<vector>
+
+1575391986 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao1\include\pedido.h
+	<string>
+
+1575391992 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao1\src\pedido.cpp
+	"Pedido.h"
+
+1576508848 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao1\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+
+1576508848 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao1\include\restaurantecaseiro.h
+	"MesaDeRestaurante.h"
+

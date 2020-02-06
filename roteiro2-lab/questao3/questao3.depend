@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao3\main.cpp
+	<iostream>
+
+1576262511 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao3\src\funcionario.cpp
+	"Funcionario.h"
+
+1576263059 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao3\include\funcionario.h
+	<string>
+
+1576512270 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao3\src\consultor.cpp
+	"Consultor.h"
+
+1576512270 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao3\include\consultor.h
+	"Funcionario.h"
+
+1576263059 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao3\include\funcionario.h
+	<string>
+
+1576262511 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao3\src\funcionario.cpp
+	"Funcionario.h"
+

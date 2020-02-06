@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao4\main.cpp
+	<iostream>
+
+1576336414 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao4\src\circulo.cpp
+	"Circulo.h"
+
+1576337029 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao4\include\circulo.h
+	"FiguraGeometrica.h"
+
+1576336073 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao4\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1576336403 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao4\include\figurageometrica.h
+	<string>
+
+1576337954 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao4\src\retangulo.cpp
+	"Retangulo.h"
+
+1576337954 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao4\include\retangulo.h
+	<FiguraGeometrica.h>
+
+1576337954 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao4\src\triangulo.cpp
+	"Triangulo.h"
+
+1576337029 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu\questao4\include\triangulo.h
+	<FiguraGeometrica.h>
+
+1576336414 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao4\src\circulo.cpp
+	"Circulo.h"
+
+1576337029 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao4\include\circulo.h
+	"FiguraGeometrica.h"
+
+1576336403 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao4\include\figurageometrica.h
+	<string>
+
+1576336073 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao4\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1576337954 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao4\src\quadrado.cpp
+	"Quadrado.h"
+
+1576337977 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao4\include\quadrado.h
+	<Retangulo.h>
+
+1576337954 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao4\include\retangulo.h
+	<FiguraGeometrica.h>
+
+1576337954 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao4\src\retangulo.cpp
+	"Retangulo.h"
+
+1576337954 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao4\src\triangulo.cpp
+	"Triangulo.h"
+
+1576337029 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro 2 - derzu omaia\questao4\include\triangulo.h
+	<FiguraGeometrica.h>
+
