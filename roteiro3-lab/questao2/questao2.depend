@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1581283819 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao1\main.cpp
+	"ContaEspecial.h"
+
+1581283039 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao1\src\iconta.cpp
+	"IConta.h"
+
+1581282818 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao1\include\iconta.h
+
+1581283736 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao1\src\conta.cpp
+	"Conta.h"
+
+1581283081 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao1\include\conta.h
+	"IConta.h"
+	<string>
+	<iostream>
+
+1581283921 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao1\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1581020037 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao1\include\contaespecial.h
+	<Conta.h>
+
+1581295246 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao2\main.cpp
+	"ContaEspecial.h"
+
+1581020037 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao2\include\contaespecial.h
+	<Conta.h>
+
+1581295828 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao2\include\conta.h
+	"IConta.h"
+	<string>
+	<iostream>
+
+1583171514 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao2\include\iconta.h
+
+1581283921 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao2\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1583171226 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao2\src\iconta.cpp
+	"IConta.h"
+
+1581295211 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao2\src\conta.cpp
+	"Conta.h"
+

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1583177606 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao3\main.cpp
+	<iostream>
+	"ContaEspecial.h"
+	"Poupanca.h"
+
+1583176691 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao3\src\contacorrente.cpp
+	"ContaCorrente.h"
+
+1583172875 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao3\include\contacorrente.h
+	<Conta.h>
+
+1583176564 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao3\include\conta.h
+	<string>
+	<iostream>
+
+1583176564 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao3\src\conta.cpp
+	"Conta.h"
+
+1583176848 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao3\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1583172875 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao3\include\contaespecial.h
+	<ContaCorrente.h>
+
+1583177560 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao3\src\poupanca.cpp
+	"Poupanca.h"
+
+1583177544 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao3\include\poupanca.h
+	<Conta.h>
+

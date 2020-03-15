@@ -1,0 +1,35 @@
+Polimorfismo se dá quando uma variável ponteiro da classe pai aponta para um objeto da classe filha.
+
+class Animal
+{
+	public:
+		Animal();
+		virtual string emitirSom();
+		void comer();
+		void dormir(int tempo);
+		virtual void locomover();
+};
+
+class Urso : public Animal
+{
+	public:
+		Urso();
+		string emitirSom();
+		void locomover();		
+};
+
+class Passaro : public Animal
+{
+	public:
+		Passaro();
+		string emitirSom();
+		void locomover();	
+};
+
+int main()
+{
+	vector<Animal*> animais;
+	animais.push_back(new Urso());
+	animais.push_back(new Passaro());
+}
+
