@@ -21,31 +21,9 @@ class Funcionario
         void setMatricula(int m);
         int getMatricula();
 
-        //para polimorfismo
-        /*virtual void setSalario(double s);
-
-        virtual void setVendasSemanais(double v);
-        virtual double getVendasSemanais();
-
-        virtual void setPercentualComissao(double p);
-        virtual double getPercentualComissao();
-
-        virtual void setSalarioPorHora(double s);
-        virtual double getSalarioPorHora();
-
-        virtual void setHorasTrabalhadas(double h);
-        virtual double getHorasTrabalhadas();
-        */
-
     protected:
         std::string nome;
         int matricula;
-
-        //para polimorfismo
-        /*double salario;
-        double vendasSemanais, percentualComissao;
-        double salarioPorHora, horasTrabalhadas;
-        */
 
     private:
 };
