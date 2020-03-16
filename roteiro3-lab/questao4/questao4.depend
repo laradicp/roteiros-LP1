@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1583359012 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao4\main.cpp
+1583904568 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao4\main.cpp
 	"SistemaGerenciaFolha.h"
 
 1583181742 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao4\src\assalariado.cpp
@@ -8,7 +8,7 @@
 1583254596 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao4\include\assalariado.h
 	"Funcionario.h"
 
-1583254596 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao4\include\funcionario.h
+1584322390 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao4\include\funcionario.h
 	<string>
 
 1583254596 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\roteiro3-lab\questao4\src\funcionario.cpp
