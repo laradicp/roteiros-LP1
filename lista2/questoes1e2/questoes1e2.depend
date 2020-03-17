@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1584330219 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questoes1e2\src\conta.cpp
+	"Conta.h"
+
+1584330219 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questoes1e2\include\conta.h
+	"IConta.h"
+	"SaldoNaoDisponivelException.h"
+	"LimiteUltrapassadoException.h"
+
+1584330219 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questoes1e2\include\iconta.h
+
+1584330219 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questoes1e2\include\saldonaodisponivelexception.h
+	<string>
+	<stdexcept>
+
+1584330219 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questoes1e2\include\limiteultrapassadoexception.h
+	<string>
+	<stdexcept>
+
+1584330219 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questoes1e2\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1584330219 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questoes1e2\include\contaespecial.h
+	<Conta.h>
+
+1584330219 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questoes1e2\src\iconta.cpp
+	"IConta.h"
+
+1584330219 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questoes1e2\src\limiteultrapassadoexception.cpp
+	"LimiteUltrapassadoException.h"
+
+1584330386 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questoes1e2\src\saldonaodisponivelexception.cpp
+	"SaldoNaoDisponivelException.h"
+
+1584330367 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questoes1e2\main.cpp
+	"ContaEspecial.h"
+	<iostream>
+
