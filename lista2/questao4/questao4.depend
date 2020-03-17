@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1584467772 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questao4\main.cpp
+	<iostream>
+	"TestaValidaNumero.h"
+
+1584468203 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questao4\src\valorabaixoexception.cpp
+	"ValorAbaixoException.h"
+	<iostream>
+
+1584467649 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questao4\include\valorabaixoexception.h
+	<string>
+	<stdexcept>
+
+1584320441 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questao4\src\testavalidanumero.cpp
+	"TestaValidaNumero.h"
+
+1584322383 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questao4\include\testavalidanumero.h
+	"ValorAbaixoException.h"
+	"ValorAcimaException.h"
+	"ValorMuitoAcimaException.h"
+
+1584467649 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questao4\include\valoracimaexception.h
+	<string>
+	<stdexcept>
+
+1584467649 c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questao4\include\valormuitoacimaexception.h
+	<string>
+	<stdexcept>
+
+1584468203 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questao4\src\valoracimaexception.cpp
+	"ValorAcimaException.h"
+	<iostream>
+
+1584468203 source:c:\users\larad\onedrive\documentos\faculdade\linguagem de programação i\lista2\questao4\src\valormuitoacimaexception.cpp
+	"ValorMuitoAcimaException.h"
+	<iostream>
+
